@@ -1,0 +1,2882 @@
+[
+    {
+        "Date": "2022-04-01 00:00",
+        "PredictedMegaWatt": 21151.5381185574
+    },
+    {
+        "Date": "2022-04-01 01:00",
+        "PredictedMegaWatt": 21057.4721013038
+    },
+    {
+        "Date": "2022-04-01 02:00",
+        "PredictedMegaWatt": 19906.6750780658
+    },
+    {
+        "Date": "2022-04-01 03:00",
+        "PredictedMegaWatt": 20024.6003436744
+    },
+    {
+        "Date": "2022-04-01 04:00",
+        "PredictedMegaWatt": 20141.5083437319
+    },
+    {
+        "Date": "2022-04-01 05:00",
+        "PredictedMegaWatt": 20576.0985209019
+    },
+    {
+        "Date": "2022-04-01 06:00",
+        "PredictedMegaWatt": 21254.1951333736
+    },
+    {
+        "Date": "2022-04-01 07:00",
+        "PredictedMegaWatt": 22034.169979473
+    },
+    {
+        "Date": "2022-04-01 08:00",
+        "PredictedMegaWatt": 22679.3016893591
+    },
+    {
+        "Date": "2022-04-01 09:00",
+        "PredictedMegaWatt": 22978.9115709157
+    },
+    {
+        "Date": "2022-04-01 10:00",
+        "PredictedMegaWatt": 22882.0473783322
+    },
+    {
+        "Date": "2022-04-01 11:00",
+        "PredictedMegaWatt": 22207.6710601304
+    },
+    {
+        "Date": "2022-04-01 12:00",
+        "PredictedMegaWatt": 21755.2470717669
+    },
+    {
+        "Date": "2022-04-01 13:00",
+        "PredictedMegaWatt": 21215.2573096131
+    },
+    {
+        "Date": "2022-04-01 14:00",
+        "PredictedMegaWatt": 20282.3086463241
+    },
+    {
+        "Date": "2022-04-01 15:00",
+        "PredictedMegaWatt": 19348.0745770353
+    },
+    {
+        "Date": "2022-04-01 16:00",
+        "PredictedMegaWatt": 19347.8657487594
+    },
+    {
+        "Date": "2022-04-01 17:00",
+        "PredictedMegaWatt": 19772.6620033574
+    },
+    {
+        "Date": "2022-04-01 18:00",
+        "PredictedMegaWatt": 19979.5564552671
+    },
+    {
+        "Date": "2022-04-01 19:00",
+        "PredictedMegaWatt": 21140.0754232838
+    },
+    {
+        "Date": "2022-04-01 20:00",
+        "PredictedMegaWatt": 21877.8064098112
+    },
+    {
+        "Date": "2022-04-01 21:00",
+        "PredictedMegaWatt": 21656.8036925765
+    },
+    {
+        "Date": "2022-04-01 22:00",
+        "PredictedMegaWatt": 21250.7568808432
+    },
+    {
+        "Date": "2022-04-01 23:00",
+        "PredictedMegaWatt": 21003.1680998819
+    },
+    {
+        "Date": "2022-04-02 00:00",
+        "PredictedMegaWatt": 20722.4083683172
+    },
+    {
+        "Date": "2022-04-02 01:00",
+        "PredictedMegaWatt": 20615.5772593238
+    },
+    {
+        "Date": "2022-04-02 02:00",
+        "PredictedMegaWatt": 20638.8189814606
+    },
+    {
+        "Date": "2022-04-02 03:00",
+        "PredictedMegaWatt": 20562.9639637509
+    },
+    {
+        "Date": "2022-04-02 04:00",
+        "PredictedMegaWatt": 20561.1249774693
+    },
+    {
+        "Date": "2022-04-02 05:00",
+        "PredictedMegaWatt": 20780.9420690785
+    },
+    {
+        "Date": "2022-04-02 06:00",
+        "PredictedMegaWatt": 21394.7717796467
+    },
+    {
+        "Date": "2022-04-02 07:00",
+        "PredictedMegaWatt": 22495.1726086965
+    },
+    {
+        "Date": "2022-04-02 08:00",
+        "PredictedMegaWatt": 23748.0094294501
+    },
+    {
+        "Date": "2022-04-02 09:00",
+        "PredictedMegaWatt": 24260.0816931598
+    },
+    {
+        "Date": "2022-04-02 10:00",
+        "PredictedMegaWatt": 24286.7882347379
+    },
+    {
+        "Date": "2022-04-02 11:00",
+        "PredictedMegaWatt": 23812.3792009037
+    },
+    {
+        "Date": "2022-04-02 12:00",
+        "PredictedMegaWatt": 23527.9068980082
+    },
+    {
+        "Date": "2022-04-02 13:00",
+        "PredictedMegaWatt": 23126.9152133556
+    },
+    {
+        "Date": "2022-04-02 14:00",
+        "PredictedMegaWatt": 22464.1702594195
+    },
+    {
+        "Date": "2022-04-02 15:00",
+        "PredictedMegaWatt": 22026.3512758301
+    },
+    {
+        "Date": "2022-04-02 16:00",
+        "PredictedMegaWatt": 22042.871569525
+    },
+    {
+        "Date": "2022-04-02 17:00",
+        "PredictedMegaWatt": 21827.3731455147
+    },
+    {
+        "Date": "2022-04-02 18:00",
+        "PredictedMegaWatt": 21857.5278249855
+    },
+    {
+        "Date": "2022-04-02 19:00",
+        "PredictedMegaWatt": 22970.4892423451
+    },
+    {
+        "Date": "2022-04-02 20:00",
+        "PredictedMegaWatt": 23580.7169740719
+    },
+    {
+        "Date": "2022-04-02 21:00",
+        "PredictedMegaWatt": 23221.1671989851
+    },
+    {
+        "Date": "2022-04-02 22:00",
+        "PredictedMegaWatt": 22608.7418276804
+    },
+    {
+        "Date": "2022-04-02 23:00",
+        "PredictedMegaWatt": 22422.2538524695
+    },
+    {
+        "Date": "2022-04-03 00:00",
+        "PredictedMegaWatt": 22097.4566859336
+    },
+    {
+        "Date": "2022-04-03 01:00",
+        "PredictedMegaWatt": 21637.2238792893
+    },
+    {
+        "Date": "2022-04-03 02:00",
+        "PredictedMegaWatt": 20408.0167811377
+    },
+    {
+        "Date": "2022-04-03 03:00",
+        "PredictedMegaWatt": 20357.9838740093
+    },
+    {
+        "Date": "2022-04-03 04:00",
+        "PredictedMegaWatt": 20251.9729411586
+    },
+    {
+        "Date": "2022-04-03 05:00",
+        "PredictedMegaWatt": 20188.5271421506
+    },
+    {
+        "Date": "2022-04-03 06:00",
+        "PredictedMegaWatt": 20488.5361452048
+    },
+    {
+        "Date": "2022-04-03 07:00",
+        "PredictedMegaWatt": 21537.2340587542
+    },
+    {
+        "Date": "2022-04-03 08:00",
+        "PredictedMegaWatt": 23190.3705888083
+    },
+    {
+        "Date": "2022-04-03 09:00",
+        "PredictedMegaWatt": 23777.0569483575
+    },
+    {
+        "Date": "2022-04-03 10:00",
+        "PredictedMegaWatt": 23876.7298194681
+    },
+    {
+        "Date": "2022-04-03 11:00",
+        "PredictedMegaWatt": 23782.3456171196
+    },
+    {
+        "Date": "2022-04-03 12:00",
+        "PredictedMegaWatt": 23579.9150240657
+    },
+    {
+        "Date": "2022-04-03 13:00",
+        "PredictedMegaWatt": 23604.4647031848
+    },
+    {
+        "Date": "2022-04-03 14:00",
+        "PredictedMegaWatt": 23548.9905220158
+    },
+    {
+        "Date": "2022-04-03 15:00",
+        "PredictedMegaWatt": 23117.3523611244
+    },
+    {
+        "Date": "2022-04-03 16:00",
+        "PredictedMegaWatt": 22915.1899085195
+    },
+    {
+        "Date": "2022-04-03 17:00",
+        "PredictedMegaWatt": 22834.8521879823
+    },
+    {
+        "Date": "2022-04-03 18:00",
+        "PredictedMegaWatt": 22906.8491341868
+    },
+    {
+        "Date": "2022-04-03 19:00",
+        "PredictedMegaWatt": 23701.9306671905
+    },
+    {
+        "Date": "2022-04-03 20:00",
+        "PredictedMegaWatt": 24442.479599772
+    },
+    {
+        "Date": "2022-04-03 21:00",
+        "PredictedMegaWatt": 24213.7873064378
+    },
+    {
+        "Date": "2022-04-03 22:00",
+        "PredictedMegaWatt": 23792.0999982429
+    },
+    {
+        "Date": "2022-04-03 23:00",
+        "PredictedMegaWatt": 23498.8186019818
+    },
+    {
+        "Date": "2022-04-04 00:00",
+        "PredictedMegaWatt": 23186.7204188263
+    },
+    {
+        "Date": "2022-04-04 01:00",
+        "PredictedMegaWatt": 22616.3022762366
+    },
+    {
+        "Date": "2022-04-04 02:00",
+        "PredictedMegaWatt": 21033.7348753882
+    },
+    {
+        "Date": "2022-04-04 03:00",
+        "PredictedMegaWatt": 21363.4821370316
+    },
+    {
+        "Date": "2022-04-04 04:00",
+        "PredictedMegaWatt": 21420.3977275724
+    },
+    {
+        "Date": "2022-04-04 05:00",
+        "PredictedMegaWatt": 21304.1687283291
+    },
+    {
+        "Date": "2022-04-04 06:00",
+        "PredictedMegaWatt": 21393.5361093752
+    },
+    {
+        "Date": "2022-04-04 07:00",
+        "PredictedMegaWatt": 22540.2220576199
+    },
+    {
+        "Date": "2022-04-04 08:00",
+        "PredictedMegaWatt": 23913.002302453
+    },
+    {
+        "Date": "2022-04-04 09:00",
+        "PredictedMegaWatt": 24436.1733565414
+    },
+    {
+        "Date": "2022-04-04 10:00",
+        "PredictedMegaWatt": 24352.293587171
+    },
+    {
+        "Date": "2022-04-04 11:00",
+        "PredictedMegaWatt": 24170.9824525625
+    },
+    {
+        "Date": "2022-04-04 12:00",
+        "PredictedMegaWatt": 23627.9529415408
+    },
+    {
+        "Date": "2022-04-04 13:00",
+        "PredictedMegaWatt": 23486.97717377
+    },
+    {
+        "Date": "2022-04-04 14:00",
+        "PredictedMegaWatt": 23516.8729803188
+    },
+    {
+        "Date": "2022-04-04 15:00",
+        "PredictedMegaWatt": 23090.9368198953
+    },
+    {
+        "Date": "2022-04-04 16:00",
+        "PredictedMegaWatt": 22838.832899762
+    },
+    {
+        "Date": "2022-04-04 17:00",
+        "PredictedMegaWatt": 22801.7572311005
+    },
+    {
+        "Date": "2022-04-04 18:00",
+        "PredictedMegaWatt": 22907.8555876229
+    },
+    {
+        "Date": "2022-04-04 19:00",
+        "PredictedMegaWatt": 23560.8640776547
+    },
+    {
+        "Date": "2022-04-04 20:00",
+        "PredictedMegaWatt": 24307.9812155645
+    },
+    {
+        "Date": "2022-04-04 21:00",
+        "PredictedMegaWatt": 24338.0154171837
+    },
+    {
+        "Date": "2022-04-04 22:00",
+        "PredictedMegaWatt": 24086.9167148162
+    },
+    {
+        "Date": "2022-04-04 23:00",
+        "PredictedMegaWatt": 23849.1094997242
+    },
+    {
+        "Date": "2022-04-05 00:00",
+        "PredictedMegaWatt": 23808.3830432456
+    },
+    {
+        "Date": "2022-04-05 01:00",
+        "PredictedMegaWatt": 23562.5291433456
+    },
+    {
+        "Date": "2022-04-05 02:00",
+        "PredictedMegaWatt": 22396.4802419464
+    },
+    {
+        "Date": "2022-04-05 03:00",
+        "PredictedMegaWatt": 22288.9126734712
+    },
+    {
+        "Date": "2022-04-05 04:00",
+        "PredictedMegaWatt": 22436.4887739972
+    },
+    {
+        "Date": "2022-04-05 05:00",
+        "PredictedMegaWatt": 22242.5435286977
+    },
+    {
+        "Date": "2022-04-05 06:00",
+        "PredictedMegaWatt": 22048.0212253815
+    },
+    {
+        "Date": "2022-04-05 07:00",
+        "PredictedMegaWatt": 22668.1794212453
+    },
+    {
+        "Date": "2022-04-05 08:00",
+        "PredictedMegaWatt": 23996.0238988199
+    },
+    {
+        "Date": "2022-04-05 09:00",
+        "PredictedMegaWatt": 24575.5446064646
+    },
+    {
+        "Date": "2022-04-05 10:00",
+        "PredictedMegaWatt": 24484.4843571465
+    },
+    {
+        "Date": "2022-04-05 11:00",
+        "PredictedMegaWatt": 24150.9998107669
+    },
+    {
+        "Date": "2022-04-05 12:00",
+        "PredictedMegaWatt": 23748.9948764916
+    },
+    {
+        "Date": "2022-04-05 13:00",
+        "PredictedMegaWatt": 23782.8361782174
+    },
+    {
+        "Date": "2022-04-05 14:00",
+        "PredictedMegaWatt": 23495.5100948299
+    },
+    {
+        "Date": "2022-04-05 15:00",
+        "PredictedMegaWatt": 23355.8478445577
+    },
+    {
+        "Date": "2022-04-05 16:00",
+        "PredictedMegaWatt": 23030.9709772894
+    },
+    {
+        "Date": "2022-04-05 17:00",
+        "PredictedMegaWatt": 22879.9603312437
+    },
+    {
+        "Date": "2022-04-05 18:00",
+        "PredictedMegaWatt": 23112.5764955251
+    },
+    {
+        "Date": "2022-04-05 19:00",
+        "PredictedMegaWatt": 23527.4632923808
+    },
+    {
+        "Date": "2022-04-05 20:00",
+        "PredictedMegaWatt": 24183.4726076669
+    },
+    {
+        "Date": "2022-04-05 21:00",
+        "PredictedMegaWatt": 24331.8185307721
+    },
+    {
+        "Date": "2022-04-05 22:00",
+        "PredictedMegaWatt": 24187.4100709871
+    },
+    {
+        "Date": "2022-04-05 23:00",
+        "PredictedMegaWatt": 23870.248728894
+    },
+    {
+        "Date": "2022-04-06 00:00",
+        "PredictedMegaWatt": 23856.7799229346
+    },
+    {
+        "Date": "2022-04-06 01:00",
+        "PredictedMegaWatt": 23708.7027581135
+    },
+    {
+        "Date": "2022-04-06 02:00",
+        "PredictedMegaWatt": 22481.7241912965
+    },
+    {
+        "Date": "2022-04-06 03:00",
+        "PredictedMegaWatt": 22303.3669264721
+    },
+    {
+        "Date": "2022-04-06 04:00",
+        "PredictedMegaWatt": 22506.0743096668
+    },
+    {
+        "Date": "2022-04-06 05:00",
+        "PredictedMegaWatt": 22465.3812162856
+    },
+    {
+        "Date": "2022-04-06 06:00",
+        "PredictedMegaWatt": 22742.0385225489
+    },
+    {
+        "Date": "2022-04-06 07:00",
+        "PredictedMegaWatt": 23363.5009683843
+    },
+    {
+        "Date": "2022-04-06 08:00",
+        "PredictedMegaWatt": 24253.6969848669
+    },
+    {
+        "Date": "2022-04-06 09:00",
+        "PredictedMegaWatt": 24862.6525940492
+    },
+    {
+        "Date": "2022-04-06 10:00",
+        "PredictedMegaWatt": 24787.1760003602
+    },
+    {
+        "Date": "2022-04-06 11:00",
+        "PredictedMegaWatt": 24381.4696157866
+    },
+    {
+        "Date": "2022-04-06 12:00",
+        "PredictedMegaWatt": 24190.7815973229
+    },
+    {
+        "Date": "2022-04-06 13:00",
+        "PredictedMegaWatt": 24049.9516386441
+    },
+    {
+        "Date": "2022-04-06 14:00",
+        "PredictedMegaWatt": 23239.9401195849
+    },
+    {
+        "Date": "2022-04-06 15:00",
+        "PredictedMegaWatt": 22693.3209864245
+    },
+    {
+        "Date": "2022-04-06 16:00",
+        "PredictedMegaWatt": 22280.4353575735
+    },
+    {
+        "Date": "2022-04-06 17:00",
+        "PredictedMegaWatt": 22165.8559781426
+    },
+    {
+        "Date": "2022-04-06 18:00",
+        "PredictedMegaWatt": 22269.6510452789
+    },
+    {
+        "Date": "2022-04-06 19:00",
+        "PredictedMegaWatt": 22709.5193880137
+    },
+    {
+        "Date": "2022-04-06 20:00",
+        "PredictedMegaWatt": 23552.5634626059
+    },
+    {
+        "Date": "2022-04-06 21:00",
+        "PredictedMegaWatt": 23768.7421231006
+    },
+    {
+        "Date": "2022-04-06 22:00",
+        "PredictedMegaWatt": 23844.5999210684
+    },
+    {
+        "Date": "2022-04-06 23:00",
+        "PredictedMegaWatt": 23823.6145328474
+    },
+    {
+        "Date": "2022-04-07 00:00",
+        "PredictedMegaWatt": 23974.9266824393
+    },
+    {
+        "Date": "2022-04-07 01:00",
+        "PredictedMegaWatt": 23619.7814540353
+    },
+    {
+        "Date": "2022-04-07 02:00",
+        "PredictedMegaWatt": 22304.6056859193
+    },
+    {
+        "Date": "2022-04-07 03:00",
+        "PredictedMegaWatt": 22179.229019656
+    },
+    {
+        "Date": "2022-04-07 04:00",
+        "PredictedMegaWatt": 22441.4024168319
+    },
+    {
+        "Date": "2022-04-07 05:00",
+        "PredictedMegaWatt": 22284.9504967456
+    },
+    {
+        "Date": "2022-04-07 06:00",
+        "PredictedMegaWatt": 22825.8385911868
+    },
+    {
+        "Date": "2022-04-07 07:00",
+        "PredictedMegaWatt": 23369.4087079523
+    },
+    {
+        "Date": "2022-04-07 08:00",
+        "PredictedMegaWatt": 24167.64861417
+    },
+    {
+        "Date": "2022-04-07 09:00",
+        "PredictedMegaWatt": 24592.5097414573
+    },
+    {
+        "Date": "2022-04-07 10:00",
+        "PredictedMegaWatt": 24386.2053221022
+    },
+    {
+        "Date": "2022-04-07 11:00",
+        "PredictedMegaWatt": 24162.3352320025
+    },
+    {
+        "Date": "2022-04-07 12:00",
+        "PredictedMegaWatt": 24085.3313498579
+    },
+    {
+        "Date": "2022-04-07 13:00",
+        "PredictedMegaWatt": 23837.971785732
+    },
+    {
+        "Date": "2022-04-07 14:00",
+        "PredictedMegaWatt": 22960.8571925787
+    },
+    {
+        "Date": "2022-04-07 15:00",
+        "PredictedMegaWatt": 22083.6517776604
+    },
+    {
+        "Date": "2022-04-07 16:00",
+        "PredictedMegaWatt": 21529.268928184
+    },
+    {
+        "Date": "2022-04-07 17:00",
+        "PredictedMegaWatt": 21599.5730061165
+    },
+    {
+        "Date": "2022-04-07 18:00",
+        "PredictedMegaWatt": 21585.5123140971
+    },
+    {
+        "Date": "2022-04-07 19:00",
+        "PredictedMegaWatt": 21884.1033855148
+    },
+    {
+        "Date": "2022-04-07 20:00",
+        "PredictedMegaWatt": 22830.3741189184
+    },
+    {
+        "Date": "2022-04-07 21:00",
+        "PredictedMegaWatt": 23201.6083920925
+    },
+    {
+        "Date": "2022-04-07 22:00",
+        "PredictedMegaWatt": 23408.9903159244
+    },
+    {
+        "Date": "2022-04-07 23:00",
+        "PredictedMegaWatt": 23256.4950120475
+    },
+    {
+        "Date": "2022-04-08 00:00",
+        "PredictedMegaWatt": 23207.9578837827
+    },
+    {
+        "Date": "2022-04-08 01:00",
+        "PredictedMegaWatt": 22273.8418210047
+    },
+    {
+        "Date": "2022-04-08 02:00",
+        "PredictedMegaWatt": 20829.004699959
+    },
+    {
+        "Date": "2022-04-08 03:00",
+        "PredictedMegaWatt": 20788.0039246801
+    },
+    {
+        "Date": "2022-04-08 04:00",
+        "PredictedMegaWatt": 20796.1970364154
+    },
+    {
+        "Date": "2022-04-08 05:00",
+        "PredictedMegaWatt": 20814.9032308206
+    },
+    {
+        "Date": "2022-04-08 06:00",
+        "PredictedMegaWatt": 21088.0815074345
+    },
+    {
+        "Date": "2022-04-08 07:00",
+        "PredictedMegaWatt": 21516.4198108658
+    },
+    {
+        "Date": "2022-04-08 08:00",
+        "PredictedMegaWatt": 22697.4734563719
+    },
+    {
+        "Date": "2022-04-08 09:00",
+        "PredictedMegaWatt": 23197.7042918697
+    },
+    {
+        "Date": "2022-04-08 10:00",
+        "PredictedMegaWatt": 23031.4887231331
+    },
+    {
+        "Date": "2022-04-08 11:00",
+        "PredictedMegaWatt": 22802.155116928
+    },
+    {
+        "Date": "2022-04-08 12:00",
+        "PredictedMegaWatt": 22649.6653735673
+    },
+    {
+        "Date": "2022-04-08 13:00",
+        "PredictedMegaWatt": 22504.4833841923
+    },
+    {
+        "Date": "2022-04-08 14:00",
+        "PredictedMegaWatt": 21700.3641588228
+    },
+    {
+        "Date": "2022-04-08 15:00",
+        "PredictedMegaWatt": 20836.6201358423
+    },
+    {
+        "Date": "2022-04-08 16:00",
+        "PredictedMegaWatt": 20747.8569975589
+    },
+    {
+        "Date": "2022-04-08 17:00",
+        "PredictedMegaWatt": 21240.5446838843
+    },
+    {
+        "Date": "2022-04-08 18:00",
+        "PredictedMegaWatt": 21719.2211050011
+    },
+    {
+        "Date": "2022-04-08 19:00",
+        "PredictedMegaWatt": 22122.5599453344
+    },
+    {
+        "Date": "2022-04-08 20:00",
+        "PredictedMegaWatt": 22575.8569347448
+    },
+    {
+        "Date": "2022-04-08 21:00",
+        "PredictedMegaWatt": 22716.1469055149
+    },
+    {
+        "Date": "2022-04-08 22:00",
+        "PredictedMegaWatt": 22547.9233725871
+    },
+    {
+        "Date": "2022-04-08 23:00",
+        "PredictedMegaWatt": 22308.9064362993
+    },
+    {
+        "Date": "2022-04-09 00:00",
+        "PredictedMegaWatt": 22183.9925285527
+    },
+    {
+        "Date": "2022-04-09 01:00",
+        "PredictedMegaWatt": 21133.5028931096
+    },
+    {
+        "Date": "2022-04-09 02:00",
+        "PredictedMegaWatt": 19635.8309825948
+    },
+    {
+        "Date": "2022-04-09 03:00",
+        "PredictedMegaWatt": 19492.1747370876
+    },
+    {
+        "Date": "2022-04-09 04:00",
+        "PredictedMegaWatt": 19558.0239147737
+    },
+    {
+        "Date": "2022-04-09 05:00",
+        "PredictedMegaWatt": 19784.3007816447
+    },
+    {
+        "Date": "2022-04-09 06:00",
+        "PredictedMegaWatt": 20088.9775291496
+    },
+    {
+        "Date": "2022-04-09 07:00",
+        "PredictedMegaWatt": 20740.4114663379
+    },
+    {
+        "Date": "2022-04-09 08:00",
+        "PredictedMegaWatt": 22077.3276172108
+    },
+    {
+        "Date": "2022-04-09 09:00",
+        "PredictedMegaWatt": 22542.0873018948
+    },
+    {
+        "Date": "2022-04-09 10:00",
+        "PredictedMegaWatt": 22494.4837225201
+    },
+    {
+        "Date": "2022-04-09 11:00",
+        "PredictedMegaWatt": 22370.7863321558
+    },
+    {
+        "Date": "2022-04-09 12:00",
+        "PredictedMegaWatt": 22340.4500091552
+    },
+    {
+        "Date": "2022-04-09 13:00",
+        "PredictedMegaWatt": 22252.488820878
+    },
+    {
+        "Date": "2022-04-09 14:00",
+        "PredictedMegaWatt": 21465.0950104685
+    },
+    {
+        "Date": "2022-04-09 15:00",
+        "PredictedMegaWatt": 21061.4756729835
+    },
+    {
+        "Date": "2022-04-09 16:00",
+        "PredictedMegaWatt": 20868.4991931769
+    },
+    {
+        "Date": "2022-04-09 17:00",
+        "PredictedMegaWatt": 20922.2730920523
+    },
+    {
+        "Date": "2022-04-09 18:00",
+        "PredictedMegaWatt": 21022.3073967173
+    },
+    {
+        "Date": "2022-04-09 19:00",
+        "PredictedMegaWatt": 21356.2052748027
+    },
+    {
+        "Date": "2022-04-09 20:00",
+        "PredictedMegaWatt": 21972.3988226004
+    },
+    {
+        "Date": "2022-04-09 21:00",
+        "PredictedMegaWatt": 22020.7215620731
+    },
+    {
+        "Date": "2022-04-09 22:00",
+        "PredictedMegaWatt": 21603.8620176289
+    },
+    {
+        "Date": "2022-04-09 23:00",
+        "PredictedMegaWatt": 21251.4816014574
+    },
+    {
+        "Date": "2022-04-10 00:00",
+        "PredictedMegaWatt": 21027.1654343897
+    },
+    {
+        "Date": "2022-04-10 01:00",
+        "PredictedMegaWatt": 20711.939769777
+    },
+    {
+        "Date": "2022-04-10 02:00",
+        "PredictedMegaWatt": 19930.8670306414
+    },
+    {
+        "Date": "2022-04-10 03:00",
+        "PredictedMegaWatt": 19299.813003241
+    },
+    {
+        "Date": "2022-04-10 04:00",
+        "PredictedMegaWatt": 19168.5458967935
+    },
+    {
+        "Date": "2022-04-10 05:00",
+        "PredictedMegaWatt": 19210.4366635854
+    },
+    {
+        "Date": "2022-04-10 06:00",
+        "PredictedMegaWatt": 19606.513469733
+    },
+    {
+        "Date": "2022-04-10 07:00",
+        "PredictedMegaWatt": 20457.6901082172
+    },
+    {
+        "Date": "2022-04-10 08:00",
+        "PredictedMegaWatt": 21918.7194525007
+    },
+    {
+        "Date": "2022-04-10 09:00",
+        "PredictedMegaWatt": 22283.0963735032
+    },
+    {
+        "Date": "2022-04-10 10:00",
+        "PredictedMegaWatt": 22097.7625143258
+    },
+    {
+        "Date": "2022-04-10 11:00",
+        "PredictedMegaWatt": 21962.4078106201
+    },
+    {
+        "Date": "2022-04-10 12:00",
+        "PredictedMegaWatt": 21980.5270616464
+    },
+    {
+        "Date": "2022-04-10 13:00",
+        "PredictedMegaWatt": 21978.6611995364
+    },
+    {
+        "Date": "2022-04-10 14:00",
+        "PredictedMegaWatt": 21563.4667207831
+    },
+    {
+        "Date": "2022-04-10 15:00",
+        "PredictedMegaWatt": 21479.8384103129
+    },
+    {
+        "Date": "2022-04-10 16:00",
+        "PredictedMegaWatt": 21305.4192266438
+    },
+    {
+        "Date": "2022-04-10 17:00",
+        "PredictedMegaWatt": 20957.3766309604
+    },
+    {
+        "Date": "2022-04-10 18:00",
+        "PredictedMegaWatt": 21221.2954123948
+    },
+    {
+        "Date": "2022-04-10 19:00",
+        "PredictedMegaWatt": 21643.4182943604
+    },
+    {
+        "Date": "2022-04-10 20:00",
+        "PredictedMegaWatt": 22579.230314586
+    },
+    {
+        "Date": "2022-04-10 21:00",
+        "PredictedMegaWatt": 22755.1613408323
+    },
+    {
+        "Date": "2022-04-10 22:00",
+        "PredictedMegaWatt": 22370.1746753714
+    },
+    {
+        "Date": "2022-04-10 23:00",
+        "PredictedMegaWatt": 22062.3722999148
+    },
+    {
+        "Date": "2022-04-11 00:00",
+        "PredictedMegaWatt": 22028.6866926432
+    },
+    {
+        "Date": "2022-04-11 01:00",
+        "PredictedMegaWatt": 22040.9297136933
+    },
+    {
+        "Date": "2022-04-11 02:00",
+        "PredictedMegaWatt": 22075.0811686572
+    },
+    {
+        "Date": "2022-04-11 03:00",
+        "PredictedMegaWatt": 21620.7703117891
+    },
+    {
+        "Date": "2022-04-11 04:00",
+        "PredictedMegaWatt": 21571.1791567827
+    },
+    {
+        "Date": "2022-04-11 05:00",
+        "PredictedMegaWatt": 21694.4409733763
+    },
+    {
+        "Date": "2022-04-11 06:00",
+        "PredictedMegaWatt": 21948.749329274
+    },
+    {
+        "Date": "2022-04-11 07:00",
+        "PredictedMegaWatt": 23073.285887902
+    },
+    {
+        "Date": "2022-04-11 08:00",
+        "PredictedMegaWatt": 23911.2847207756
+    },
+    {
+        "Date": "2022-04-11 09:00",
+        "PredictedMegaWatt": 23987.6534684007
+    },
+    {
+        "Date": "2022-04-11 10:00",
+        "PredictedMegaWatt": 23429.3393339555
+    },
+    {
+        "Date": "2022-04-11 11:00",
+        "PredictedMegaWatt": 22982.8014609304
+    },
+    {
+        "Date": "2022-04-11 12:00",
+        "PredictedMegaWatt": 22416.289889904
+    },
+    {
+        "Date": "2022-04-11 13:00",
+        "PredictedMegaWatt": 21863.3663670183
+    },
+    {
+        "Date": "2022-04-11 14:00",
+        "PredictedMegaWatt": 21311.5598900581
+    },
+    {
+        "Date": "2022-04-11 15:00",
+        "PredictedMegaWatt": 21274.3520046776
+    },
+    {
+        "Date": "2022-04-11 16:00",
+        "PredictedMegaWatt": 21352.4235059368
+    },
+    {
+        "Date": "2022-04-11 17:00",
+        "PredictedMegaWatt": 21516.2505240386
+    },
+    {
+        "Date": "2022-04-11 18:00",
+        "PredictedMegaWatt": 21717.0599176963
+    },
+    {
+        "Date": "2022-04-11 19:00",
+        "PredictedMegaWatt": 22307.5416384844
+    },
+    {
+        "Date": "2022-04-11 20:00",
+        "PredictedMegaWatt": 23166.4980569979
+    },
+    {
+        "Date": "2022-04-11 21:00",
+        "PredictedMegaWatt": 23226.1834024523
+    },
+    {
+        "Date": "2022-04-11 22:00",
+        "PredictedMegaWatt": 22790.7325809382
+    },
+    {
+        "Date": "2022-04-11 23:00",
+        "PredictedMegaWatt": 22513.8040450503
+    },
+    {
+        "Date": "2022-04-12 00:00",
+        "PredictedMegaWatt": 22553.2040094924
+    },
+    {
+        "Date": "2022-04-12 01:00",
+        "PredictedMegaWatt": 22724.4604951016
+    },
+    {
+        "Date": "2022-04-12 02:00",
+        "PredictedMegaWatt": 22884.1962089344
+    },
+    {
+        "Date": "2022-04-12 03:00",
+        "PredictedMegaWatt": 22493.6514985923
+    },
+    {
+        "Date": "2022-04-12 04:00",
+        "PredictedMegaWatt": 22305.5960756419
+    },
+    {
+        "Date": "2022-04-12 05:00",
+        "PredictedMegaWatt": 22299.7544444334
+    },
+    {
+        "Date": "2022-04-12 06:00",
+        "PredictedMegaWatt": 22462.8993725453
+    },
+    {
+        "Date": "2022-04-12 07:00",
+        "PredictedMegaWatt": 23428.0208737759
+    },
+    {
+        "Date": "2022-04-12 08:00",
+        "PredictedMegaWatt": 24394.0740703912
+    },
+    {
+        "Date": "2022-04-12 09:00",
+        "PredictedMegaWatt": 24766.4290965016
+    },
+    {
+        "Date": "2022-04-12 10:00",
+        "PredictedMegaWatt": 24399.716758686
+    },
+    {
+        "Date": "2022-04-12 11:00",
+        "PredictedMegaWatt": 23907.7173407018
+    },
+    {
+        "Date": "2022-04-12 12:00",
+        "PredictedMegaWatt": 23424.5721180481
+    },
+    {
+        "Date": "2022-04-12 13:00",
+        "PredictedMegaWatt": 23356.7628583937
+    },
+    {
+        "Date": "2022-04-12 14:00",
+        "PredictedMegaWatt": 22837.5576880418
+    },
+    {
+        "Date": "2022-04-12 15:00",
+        "PredictedMegaWatt": 22328.8310015922
+    },
+    {
+        "Date": "2022-04-12 16:00",
+        "PredictedMegaWatt": 22350.5275180544
+    },
+    {
+        "Date": "2022-04-12 17:00",
+        "PredictedMegaWatt": 22289.1437438119
+    },
+    {
+        "Date": "2022-04-12 18:00",
+        "PredictedMegaWatt": 22544.4227187079
+    },
+    {
+        "Date": "2022-04-12 19:00",
+        "PredictedMegaWatt": 23530.9083410977
+    },
+    {
+        "Date": "2022-04-12 20:00",
+        "PredictedMegaWatt": 24030.4434942327
+    },
+    {
+        "Date": "2022-04-12 21:00",
+        "PredictedMegaWatt": 23848.280364972
+    },
+    {
+        "Date": "2022-04-12 22:00",
+        "PredictedMegaWatt": 23268.4532111
+    },
+    {
+        "Date": "2022-04-12 23:00",
+        "PredictedMegaWatt": 22709.1696933268
+    },
+    {
+        "Date": "2022-04-13 00:00",
+        "PredictedMegaWatt": 22494.1414418549
+    },
+    {
+        "Date": "2022-04-13 01:00",
+        "PredictedMegaWatt": 22672.5258914253
+    },
+    {
+        "Date": "2022-04-13 02:00",
+        "PredictedMegaWatt": 22083.6011151792
+    },
+    {
+        "Date": "2022-04-13 03:00",
+        "PredictedMegaWatt": 21892.9118610452
+    },
+    {
+        "Date": "2022-04-13 04:00",
+        "PredictedMegaWatt": 21957.2569190934
+    },
+    {
+        "Date": "2022-04-13 05:00",
+        "PredictedMegaWatt": 21912.053011386
+    },
+    {
+        "Date": "2022-04-13 06:00",
+        "PredictedMegaWatt": 22187.0446341233
+    },
+    {
+        "Date": "2022-04-13 07:00",
+        "PredictedMegaWatt": 23091.6899609258
+    },
+    {
+        "Date": "2022-04-13 08:00",
+        "PredictedMegaWatt": 24288.4848100206
+    },
+    {
+        "Date": "2022-04-13 09:00",
+        "PredictedMegaWatt": 24638.2480765571
+    },
+    {
+        "Date": "2022-04-13 10:00",
+        "PredictedMegaWatt": 24494.594611308
+    },
+    {
+        "Date": "2022-04-13 11:00",
+        "PredictedMegaWatt": 23932.5790265645
+    },
+    {
+        "Date": "2022-04-13 12:00",
+        "PredictedMegaWatt": 23508.3338809076
+    },
+    {
+        "Date": "2022-04-13 13:00",
+        "PredictedMegaWatt": 23479.9350888927
+    },
+    {
+        "Date": "2022-04-13 14:00",
+        "PredictedMegaWatt": 22847.8502035683
+    },
+    {
+        "Date": "2022-04-13 15:00",
+        "PredictedMegaWatt": 22503.6950265591
+    },
+    {
+        "Date": "2022-04-13 16:00",
+        "PredictedMegaWatt": 22419.1226640015
+    },
+    {
+        "Date": "2022-04-13 17:00",
+        "PredictedMegaWatt": 22437.4093483495
+    },
+    {
+        "Date": "2022-04-13 18:00",
+        "PredictedMegaWatt": 22795.3515164131
+    },
+    {
+        "Date": "2022-04-13 19:00",
+        "PredictedMegaWatt": 23604.7890666311
+    },
+    {
+        "Date": "2022-04-13 20:00",
+        "PredictedMegaWatt": 24227.3067748783
+    },
+    {
+        "Date": "2022-04-13 21:00",
+        "PredictedMegaWatt": 23966.7045324527
+    },
+    {
+        "Date": "2022-04-13 22:00",
+        "PredictedMegaWatt": 23437.0134641767
+    },
+    {
+        "Date": "2022-04-13 23:00",
+        "PredictedMegaWatt": 23125.0629436187
+    },
+    {
+        "Date": "2022-04-14 00:00",
+        "PredictedMegaWatt": 23094.7142639153
+    },
+    {
+        "Date": "2022-04-14 01:00",
+        "PredictedMegaWatt": 23350.8322589256
+    },
+    {
+        "Date": "2022-04-14 02:00",
+        "PredictedMegaWatt": 22378.5166853743
+    },
+    {
+        "Date": "2022-04-14 03:00",
+        "PredictedMegaWatt": 22201.1115044941
+    },
+    {
+        "Date": "2022-04-14 04:00",
+        "PredictedMegaWatt": 22246.426622526
+    },
+    {
+        "Date": "2022-04-14 05:00",
+        "PredictedMegaWatt": 22178.2157700334
+    },
+    {
+        "Date": "2022-04-14 06:00",
+        "PredictedMegaWatt": 22495.6403098942
+    },
+    {
+        "Date": "2022-04-14 07:00",
+        "PredictedMegaWatt": 23332.3268609396
+    },
+    {
+        "Date": "2022-04-14 08:00",
+        "PredictedMegaWatt": 24287.1045663274
+    },
+    {
+        "Date": "2022-04-14 09:00",
+        "PredictedMegaWatt": 24607.764090959
+    },
+    {
+        "Date": "2022-04-14 10:00",
+        "PredictedMegaWatt": 24421.3230712184
+    },
+    {
+        "Date": "2022-04-14 11:00",
+        "PredictedMegaWatt": 23907.5109837664
+    },
+    {
+        "Date": "2022-04-14 12:00",
+        "PredictedMegaWatt": 23493.5880097225
+    },
+    {
+        "Date": "2022-04-14 13:00",
+        "PredictedMegaWatt": 23550.3991861253
+    },
+    {
+        "Date": "2022-04-14 14:00",
+        "PredictedMegaWatt": 22829.3435699119
+    },
+    {
+        "Date": "2022-04-14 15:00",
+        "PredictedMegaWatt": 22428.6638920029
+    },
+    {
+        "Date": "2022-04-14 16:00",
+        "PredictedMegaWatt": 22540.1775734902
+    },
+    {
+        "Date": "2022-04-14 17:00",
+        "PredictedMegaWatt": 22594.822619907
+    },
+    {
+        "Date": "2022-04-14 18:00",
+        "PredictedMegaWatt": 22773.0977126584
+    },
+    {
+        "Date": "2022-04-14 19:00",
+        "PredictedMegaWatt": 23415.355871328
+    },
+    {
+        "Date": "2022-04-14 20:00",
+        "PredictedMegaWatt": 23974.8092937635
+    },
+    {
+        "Date": "2022-04-14 21:00",
+        "PredictedMegaWatt": 23811.9411557924
+    },
+    {
+        "Date": "2022-04-14 22:00",
+        "PredictedMegaWatt": 23340.3173227503
+    },
+    {
+        "Date": "2022-04-14 23:00",
+        "PredictedMegaWatt": 23107.7295788851
+    },
+    {
+        "Date": "2022-04-15 00:00",
+        "PredictedMegaWatt": 23292.8558454568
+    },
+    {
+        "Date": "2022-04-15 01:00",
+        "PredictedMegaWatt": 23743.9644628163
+    },
+    {
+        "Date": "2022-04-15 02:00",
+        "PredictedMegaWatt": 22861.0100919598
+    },
+    {
+        "Date": "2022-04-15 03:00",
+        "PredictedMegaWatt": 22537.7476279012
+    },
+    {
+        "Date": "2022-04-15 04:00",
+        "PredictedMegaWatt": 22486.3659866714
+    },
+    {
+        "Date": "2022-04-15 05:00",
+        "PredictedMegaWatt": 22547.6261938868
+    },
+    {
+        "Date": "2022-04-15 06:00",
+        "PredictedMegaWatt": 23119.8595361053
+    },
+    {
+        "Date": "2022-04-15 07:00",
+        "PredictedMegaWatt": 23756.7851597183
+    },
+    {
+        "Date": "2022-04-15 08:00",
+        "PredictedMegaWatt": 24562.8542727763
+    },
+    {
+        "Date": "2022-04-15 09:00",
+        "PredictedMegaWatt": 24736.2546463065
+    },
+    {
+        "Date": "2022-04-15 10:00",
+        "PredictedMegaWatt": 24411.4136134761
+    },
+    {
+        "Date": "2022-04-15 11:00",
+        "PredictedMegaWatt": 23884.3421661757
+    },
+    {
+        "Date": "2022-04-15 12:00",
+        "PredictedMegaWatt": 23524.5872698238
+    },
+    {
+        "Date": "2022-04-15 13:00",
+        "PredictedMegaWatt": 23650.9734786989
+    },
+    {
+        "Date": "2022-04-15 14:00",
+        "PredictedMegaWatt": 23064.2352209983
+    },
+    {
+        "Date": "2022-04-15 15:00",
+        "PredictedMegaWatt": 22702.6632715122
+    },
+    {
+        "Date": "2022-04-15 16:00",
+        "PredictedMegaWatt": 22723.1908438976
+    },
+    {
+        "Date": "2022-04-15 17:00",
+        "PredictedMegaWatt": 22886.1380647661
+    },
+    {
+        "Date": "2022-04-15 18:00",
+        "PredictedMegaWatt": 23103.4560132511
+    },
+    {
+        "Date": "2022-04-15 19:00",
+        "PredictedMegaWatt": 23555.513007544
+    },
+    {
+        "Date": "2022-04-15 20:00",
+        "PredictedMegaWatt": 24001.5356060659
+    },
+    {
+        "Date": "2022-04-15 21:00",
+        "PredictedMegaWatt": 24251.9466579273
+    },
+    {
+        "Date": "2022-04-15 22:00",
+        "PredictedMegaWatt": 24002.4691549561
+    },
+    {
+        "Date": "2022-04-15 23:00",
+        "PredictedMegaWatt": 23671.913764955
+    },
+    {
+        "Date": "2022-04-16 00:00",
+        "PredictedMegaWatt": 23767.187649899
+    },
+    {
+        "Date": "2022-04-16 01:00",
+        "PredictedMegaWatt": 23857.8883191681
+    },
+    {
+        "Date": "2022-04-16 02:00",
+        "PredictedMegaWatt": 22688.5142290683
+    },
+    {
+        "Date": "2022-04-16 03:00",
+        "PredictedMegaWatt": 22574.7683092356
+    },
+    {
+        "Date": "2022-04-16 04:00",
+        "PredictedMegaWatt": 22437.9474827527
+    },
+    {
+        "Date": "2022-04-16 05:00",
+        "PredictedMegaWatt": 22377.2050213811
+    },
+    {
+        "Date": "2022-04-16 06:00",
+        "PredictedMegaWatt": 22690.3368427188
+    },
+    {
+        "Date": "2022-04-16 07:00",
+        "PredictedMegaWatt": 23098.490472265
+    },
+    {
+        "Date": "2022-04-16 08:00",
+        "PredictedMegaWatt": 24081.0133000941
+    },
+    {
+        "Date": "2022-04-16 09:00",
+        "PredictedMegaWatt": 24388.6340320208
+    },
+    {
+        "Date": "2022-04-16 10:00",
+        "PredictedMegaWatt": 24203.347746149
+    },
+    {
+        "Date": "2022-04-16 11:00",
+        "PredictedMegaWatt": 23944.8795062822
+    },
+    {
+        "Date": "2022-04-16 12:00",
+        "PredictedMegaWatt": 23796.4866277067
+    },
+    {
+        "Date": "2022-04-16 13:00",
+        "PredictedMegaWatt": 24004.5005968824
+    },
+    {
+        "Date": "2022-04-16 14:00",
+        "PredictedMegaWatt": 23638.2040621132
+    },
+    {
+        "Date": "2022-04-16 15:00",
+        "PredictedMegaWatt": 23034.9343896852
+    },
+    {
+        "Date": "2022-04-16 16:00",
+        "PredictedMegaWatt": 22773.8304651294
+    },
+    {
+        "Date": "2022-04-16 17:00",
+        "PredictedMegaWatt": 22888.2146086573
+    },
+    {
+        "Date": "2022-04-16 18:00",
+        "PredictedMegaWatt": 23086.7034135451
+    },
+    {
+        "Date": "2022-04-16 19:00",
+        "PredictedMegaWatt": 23235.77591077
+    },
+    {
+        "Date": "2022-04-16 20:00",
+        "PredictedMegaWatt": 23566.0977590897
+    },
+    {
+        "Date": "2022-04-16 21:00",
+        "PredictedMegaWatt": 23958.7801790015
+    },
+    {
+        "Date": "2022-04-16 22:00",
+        "PredictedMegaWatt": 23761.3046237364
+    },
+    {
+        "Date": "2022-04-16 23:00",
+        "PredictedMegaWatt": 23539.4264341144
+    },
+    {
+        "Date": "2022-04-17 00:00",
+        "PredictedMegaWatt": 23754.2384432888
+    },
+    {
+        "Date": "2022-04-17 01:00",
+        "PredictedMegaWatt": 23358.4050641846
+    },
+    {
+        "Date": "2022-04-17 02:00",
+        "PredictedMegaWatt": 21726.0265590214
+    },
+    {
+        "Date": "2022-04-17 03:00",
+        "PredictedMegaWatt": 21689.3407443307
+    },
+    {
+        "Date": "2022-04-17 04:00",
+        "PredictedMegaWatt": 21674.1450891668
+    },
+    {
+        "Date": "2022-04-17 05:00",
+        "PredictedMegaWatt": 21718.9406078495
+    },
+    {
+        "Date": "2022-04-17 06:00",
+        "PredictedMegaWatt": 22009.8797911109
+    },
+    {
+        "Date": "2022-04-17 07:00",
+        "PredictedMegaWatt": 22758.9461988739
+    },
+    {
+        "Date": "2022-04-17 08:00",
+        "PredictedMegaWatt": 23657.7387734354
+    },
+    {
+        "Date": "2022-04-17 09:00",
+        "PredictedMegaWatt": 24121.6205143915
+    },
+    {
+        "Date": "2022-04-17 10:00",
+        "PredictedMegaWatt": 23982.8788384716
+    },
+    {
+        "Date": "2022-04-17 11:00",
+        "PredictedMegaWatt": 23675.3835270774
+    },
+    {
+        "Date": "2022-04-17 12:00",
+        "PredictedMegaWatt": 23602.7872807913
+    },
+    {
+        "Date": "2022-04-17 13:00",
+        "PredictedMegaWatt": 23868.2222296488
+    },
+    {
+        "Date": "2022-04-17 14:00",
+        "PredictedMegaWatt": 23165.1190489749
+    },
+    {
+        "Date": "2022-04-17 15:00",
+        "PredictedMegaWatt": 22536.3710912188
+    },
+    {
+        "Date": "2022-04-17 16:00",
+        "PredictedMegaWatt": 22390.0535208643
+    },
+    {
+        "Date": "2022-04-17 17:00",
+        "PredictedMegaWatt": 22563.0998748617
+    },
+    {
+        "Date": "2022-04-17 18:00",
+        "PredictedMegaWatt": 22672.4542225495
+    },
+    {
+        "Date": "2022-04-17 19:00",
+        "PredictedMegaWatt": 22948.3608591229
+    },
+    {
+        "Date": "2022-04-17 20:00",
+        "PredictedMegaWatt": 23468.7281773652
+    },
+    {
+        "Date": "2022-04-17 21:00",
+        "PredictedMegaWatt": 23638.8564960165
+    },
+    {
+        "Date": "2022-04-17 22:00",
+        "PredictedMegaWatt": 23375.3652564961
+    },
+    {
+        "Date": "2022-04-17 23:00",
+        "PredictedMegaWatt": 23137.3146143606
+    },
+    {
+        "Date": "2022-04-18 00:00",
+        "PredictedMegaWatt": 23266.3989092736
+    },
+    {
+        "Date": "2022-04-18 01:00",
+        "PredictedMegaWatt": 23098.5868545462
+    },
+    {
+        "Date": "2022-04-18 02:00",
+        "PredictedMegaWatt": 21418.4447507083
+    },
+    {
+        "Date": "2022-04-18 03:00",
+        "PredictedMegaWatt": 20892.9321014554
+    },
+    {
+        "Date": "2022-04-18 04:00",
+        "PredictedMegaWatt": 20772.3998804915
+    },
+    {
+        "Date": "2022-04-18 05:00",
+        "PredictedMegaWatt": 20871.9250890046
+    },
+    {
+        "Date": "2022-04-18 06:00",
+        "PredictedMegaWatt": 21337.4366790488
+    },
+    {
+        "Date": "2022-04-18 07:00",
+        "PredictedMegaWatt": 22188.335909557
+    },
+    {
+        "Date": "2022-04-18 08:00",
+        "PredictedMegaWatt": 22918.3390142064
+    },
+    {
+        "Date": "2022-04-18 09:00",
+        "PredictedMegaWatt": 23200.8632829188
+    },
+    {
+        "Date": "2022-04-18 10:00",
+        "PredictedMegaWatt": 22891.0683891494
+    },
+    {
+        "Date": "2022-04-18 11:00",
+        "PredictedMegaWatt": 22600.4078495342
+    },
+    {
+        "Date": "2022-04-18 12:00",
+        "PredictedMegaWatt": 22599.8011354309
+    },
+    {
+        "Date": "2022-04-18 13:00",
+        "PredictedMegaWatt": 22813.5856847745
+    },
+    {
+        "Date": "2022-04-18 14:00",
+        "PredictedMegaWatt": 22244.4143334888
+    },
+    {
+        "Date": "2022-04-18 15:00",
+        "PredictedMegaWatt": 21918.6187453736
+    },
+    {
+        "Date": "2022-04-18 16:00",
+        "PredictedMegaWatt": 21822.6578277587
+    },
+    {
+        "Date": "2022-04-18 17:00",
+        "PredictedMegaWatt": 21887.3649371964
+    },
+    {
+        "Date": "2022-04-18 18:00",
+        "PredictedMegaWatt": 21902.3029551086
+    },
+    {
+        "Date": "2022-04-18 19:00",
+        "PredictedMegaWatt": 22305.7455917448
+    },
+    {
+        "Date": "2022-04-18 20:00",
+        "PredictedMegaWatt": 22724.9794766156
+    },
+    {
+        "Date": "2022-04-18 21:00",
+        "PredictedMegaWatt": 22920.4878448085
+    },
+    {
+        "Date": "2022-04-18 22:00",
+        "PredictedMegaWatt": 22677.221438457
+    },
+    {
+        "Date": "2022-04-18 23:00",
+        "PredictedMegaWatt": 22460.0801908208
+    },
+    {
+        "Date": "2022-04-19 00:00",
+        "PredictedMegaWatt": 22709.6423372057
+    },
+    {
+        "Date": "2022-04-19 01:00",
+        "PredictedMegaWatt": 22663.8842313815
+    },
+    {
+        "Date": "2022-04-19 02:00",
+        "PredictedMegaWatt": 21809.3212385183
+    },
+    {
+        "Date": "2022-04-19 03:00",
+        "PredictedMegaWatt": 21521.7387535495
+    },
+    {
+        "Date": "2022-04-19 04:00",
+        "PredictedMegaWatt": 21517.717882486
+    },
+    {
+        "Date": "2022-04-19 05:00",
+        "PredictedMegaWatt": 21688.1013670484
+    },
+    {
+        "Date": "2022-04-19 06:00",
+        "PredictedMegaWatt": 21970.5280178093
+    },
+    {
+        "Date": "2022-04-19 07:00",
+        "PredictedMegaWatt": 22815.9501398391
+    },
+    {
+        "Date": "2022-04-19 08:00",
+        "PredictedMegaWatt": 23650.0053310412
+    },
+    {
+        "Date": "2022-04-19 09:00",
+        "PredictedMegaWatt": 23791.1343219257
+    },
+    {
+        "Date": "2022-04-19 10:00",
+        "PredictedMegaWatt": 23411.7137332028
+    },
+    {
+        "Date": "2022-04-19 11:00",
+        "PredictedMegaWatt": 22785.6638614844
+    },
+    {
+        "Date": "2022-04-19 12:00",
+        "PredictedMegaWatt": 22373.2249274366
+    },
+    {
+        "Date": "2022-04-19 13:00",
+        "PredictedMegaWatt": 22173.0519039687
+    },
+    {
+        "Date": "2022-04-19 14:00",
+        "PredictedMegaWatt": 21359.8047823036
+    },
+    {
+        "Date": "2022-04-19 15:00",
+        "PredictedMegaWatt": 20919.5249613685
+    },
+    {
+        "Date": "2022-04-19 16:00",
+        "PredictedMegaWatt": 20755.7943255479
+    },
+    {
+        "Date": "2022-04-19 17:00",
+        "PredictedMegaWatt": 20747.6592903154
+    },
+    {
+        "Date": "2022-04-19 18:00",
+        "PredictedMegaWatt": 20777.9715177458
+    },
+    {
+        "Date": "2022-04-19 19:00",
+        "PredictedMegaWatt": 21553.5467598435
+    },
+    {
+        "Date": "2022-04-19 20:00",
+        "PredictedMegaWatt": 22230.9004255645
+    },
+    {
+        "Date": "2022-04-19 21:00",
+        "PredictedMegaWatt": 22379.3143105346
+    },
+    {
+        "Date": "2022-04-19 22:00",
+        "PredictedMegaWatt": 22237.1590954897
+    },
+    {
+        "Date": "2022-04-19 23:00",
+        "PredictedMegaWatt": 22155.0661053318
+    },
+    {
+        "Date": "2022-04-20 00:00",
+        "PredictedMegaWatt": 22537.8470993581
+    },
+    {
+        "Date": "2022-04-20 01:00",
+        "PredictedMegaWatt": 22646.0448596718
+    },
+    {
+        "Date": "2022-04-20 02:00",
+        "PredictedMegaWatt": 22216.0742358118
+    },
+    {
+        "Date": "2022-04-20 03:00",
+        "PredictedMegaWatt": 21828.2393503751
+    },
+    {
+        "Date": "2022-04-20 04:00",
+        "PredictedMegaWatt": 21811.2525911527
+    },
+    {
+        "Date": "2022-04-20 05:00",
+        "PredictedMegaWatt": 21741.5842655748
+    },
+    {
+        "Date": "2022-04-20 06:00",
+        "PredictedMegaWatt": 21986.8994132365
+    },
+    {
+        "Date": "2022-04-20 07:00",
+        "PredictedMegaWatt": 23215.1661663115
+    },
+    {
+        "Date": "2022-04-20 08:00",
+        "PredictedMegaWatt": 23983.2260618179
+    },
+    {
+        "Date": "2022-04-20 09:00",
+        "PredictedMegaWatt": 23959.7069317052
+    },
+    {
+        "Date": "2022-04-20 10:00",
+        "PredictedMegaWatt": 23501.2429870545
+    },
+    {
+        "Date": "2022-04-20 11:00",
+        "PredictedMegaWatt": 22759.2594412878
+    },
+    {
+        "Date": "2022-04-20 12:00",
+        "PredictedMegaWatt": 22390.5070118539
+    },
+    {
+        "Date": "2022-04-20 13:00",
+        "PredictedMegaWatt": 22212.8509899086
+    },
+    {
+        "Date": "2022-04-20 14:00",
+        "PredictedMegaWatt": 21492.304469847
+    },
+    {
+        "Date": "2022-04-20 15:00",
+        "PredictedMegaWatt": 21090.5170135396
+    },
+    {
+        "Date": "2022-04-20 16:00",
+        "PredictedMegaWatt": 21209.2334170395
+    },
+    {
+        "Date": "2022-04-20 17:00",
+        "PredictedMegaWatt": 21381.1021772682
+    },
+    {
+        "Date": "2022-04-20 18:00",
+        "PredictedMegaWatt": 21561.1529281997
+    },
+    {
+        "Date": "2022-04-20 19:00",
+        "PredictedMegaWatt": 22690.2336642511
+    },
+    {
+        "Date": "2022-04-20 20:00",
+        "PredictedMegaWatt": 23114.1519751212
+    },
+    {
+        "Date": "2022-04-20 21:00",
+        "PredictedMegaWatt": 23106.5291252163
+    },
+    {
+        "Date": "2022-04-20 22:00",
+        "PredictedMegaWatt": 22744.6525830083
+    },
+    {
+        "Date": "2022-04-20 23:00",
+        "PredictedMegaWatt": 22776.3555573292
+    },
+    {
+        "Date": "2022-04-21 00:00",
+        "PredictedMegaWatt": 23118.5589931446
+    },
+    {
+        "Date": "2022-04-21 01:00",
+        "PredictedMegaWatt": 23222.0130152859
+    },
+    {
+        "Date": "2022-04-21 02:00",
+        "PredictedMegaWatt": 22617.929036149
+    },
+    {
+        "Date": "2022-04-21 03:00",
+        "PredictedMegaWatt": 22210.1646427383
+    },
+    {
+        "Date": "2022-04-21 04:00",
+        "PredictedMegaWatt": 22220.7716363489
+    },
+    {
+        "Date": "2022-04-21 05:00",
+        "PredictedMegaWatt": 22205.2262864982
+    },
+    {
+        "Date": "2022-04-21 06:00",
+        "PredictedMegaWatt": 22573.1328996312
+    },
+    {
+        "Date": "2022-04-21 07:00",
+        "PredictedMegaWatt": 23733.5582656248
+    },
+    {
+        "Date": "2022-04-21 08:00",
+        "PredictedMegaWatt": 24406.4690788846
+    },
+    {
+        "Date": "2022-04-21 09:00",
+        "PredictedMegaWatt": 24275.0370104558
+    },
+    {
+        "Date": "2022-04-21 10:00",
+        "PredictedMegaWatt": 23742.1455561767
+    },
+    {
+        "Date": "2022-04-21 11:00",
+        "PredictedMegaWatt": 23156.9420009533
+    },
+    {
+        "Date": "2022-04-21 12:00",
+        "PredictedMegaWatt": 22953.0724698682
+    },
+    {
+        "Date": "2022-04-21 13:00",
+        "PredictedMegaWatt": 22802.4251108823
+    },
+    {
+        "Date": "2022-04-21 14:00",
+        "PredictedMegaWatt": 22459.9207893558
+    },
+    {
+        "Date": "2022-04-21 15:00",
+        "PredictedMegaWatt": 21927.9764763397
+    },
+    {
+        "Date": "2022-04-21 16:00",
+        "PredictedMegaWatt": 22015.5082691976
+    },
+    {
+        "Date": "2022-04-21 17:00",
+        "PredictedMegaWatt": 22025.1464973153
+    },
+    {
+        "Date": "2022-04-21 18:00",
+        "PredictedMegaWatt": 22281.6327220666
+    },
+    {
+        "Date": "2022-04-21 19:00",
+        "PredictedMegaWatt": 23337.048357047
+    },
+    {
+        "Date": "2022-04-21 20:00",
+        "PredictedMegaWatt": 23768.161358073
+    },
+    {
+        "Date": "2022-04-21 21:00",
+        "PredictedMegaWatt": 23538.4774393458
+    },
+    {
+        "Date": "2022-04-21 22:00",
+        "PredictedMegaWatt": 22991.5302357283
+    },
+    {
+        "Date": "2022-04-21 23:00",
+        "PredictedMegaWatt": 22916.7789804886
+    },
+    {
+        "Date": "2022-04-22 00:00",
+        "PredictedMegaWatt": 23166.7421018766
+    },
+    {
+        "Date": "2022-04-22 01:00",
+        "PredictedMegaWatt": 23460.6524543058
+    },
+    {
+        "Date": "2022-04-22 02:00",
+        "PredictedMegaWatt": 22968.5202017674
+    },
+    {
+        "Date": "2022-04-22 03:00",
+        "PredictedMegaWatt": 22359.7153443582
+    },
+    {
+        "Date": "2022-04-22 04:00",
+        "PredictedMegaWatt": 22354.9030264858
+    },
+    {
+        "Date": "2022-04-22 05:00",
+        "PredictedMegaWatt": 22394.8238259474
+    },
+    {
+        "Date": "2022-04-22 06:00",
+        "PredictedMegaWatt": 22875.8782945017
+    },
+    {
+        "Date": "2022-04-22 07:00",
+        "PredictedMegaWatt": 24339.6335274043
+    },
+    {
+        "Date": "2022-04-22 08:00",
+        "PredictedMegaWatt": 24962.1920127704
+    },
+    {
+        "Date": "2022-04-22 09:00",
+        "PredictedMegaWatt": 24927.9219334605
+    },
+    {
+        "Date": "2022-04-22 10:00",
+        "PredictedMegaWatt": 24513.3650605673
+    },
+    {
+        "Date": "2022-04-22 11:00",
+        "PredictedMegaWatt": 24075.6887968942
+    },
+    {
+        "Date": "2022-04-22 12:00",
+        "PredictedMegaWatt": 23821.537371121
+    },
+    {
+        "Date": "2022-04-22 13:00",
+        "PredictedMegaWatt": 23760.9969418388
+    },
+    {
+        "Date": "2022-04-22 14:00",
+        "PredictedMegaWatt": 23547.0826471166
+    },
+    {
+        "Date": "2022-04-22 15:00",
+        "PredictedMegaWatt": 22953.9250823555
+    },
+    {
+        "Date": "2022-04-22 16:00",
+        "PredictedMegaWatt": 22747.1511082973
+    },
+    {
+        "Date": "2022-04-22 17:00",
+        "PredictedMegaWatt": 22481.4826177585
+    },
+    {
+        "Date": "2022-04-22 18:00",
+        "PredictedMegaWatt": 22504.7675883547
+    },
+    {
+        "Date": "2022-04-22 19:00",
+        "PredictedMegaWatt": 23240.641362464
+    },
+    {
+        "Date": "2022-04-22 20:00",
+        "PredictedMegaWatt": 23935.2017367158
+    },
+    {
+        "Date": "2022-04-22 21:00",
+        "PredictedMegaWatt": 23808.739534119
+    },
+    {
+        "Date": "2022-04-22 22:00",
+        "PredictedMegaWatt": 23386.1681038448
+    },
+    {
+        "Date": "2022-04-22 23:00",
+        "PredictedMegaWatt": 23229.9750566804
+    },
+    {
+        "Date": "2022-04-23 00:00",
+        "PredictedMegaWatt": 23367.64602431
+    },
+    {
+        "Date": "2022-04-23 01:00",
+        "PredictedMegaWatt": 23422.027872959
+    },
+    {
+        "Date": "2022-04-23 02:00",
+        "PredictedMegaWatt": 22759.1995112796
+    },
+    {
+        "Date": "2022-04-23 03:00",
+        "PredictedMegaWatt": 22171.0124301856
+    },
+    {
+        "Date": "2022-04-23 04:00",
+        "PredictedMegaWatt": 22151.7267064231
+    },
+    {
+        "Date": "2022-04-23 05:00",
+        "PredictedMegaWatt": 22115.0025859539
+    },
+    {
+        "Date": "2022-04-23 06:00",
+        "PredictedMegaWatt": 22470.7285793855
+    },
+    {
+        "Date": "2022-04-23 07:00",
+        "PredictedMegaWatt": 23668.6886655464
+    },
+    {
+        "Date": "2022-04-23 08:00",
+        "PredictedMegaWatt": 24635.3498119353
+    },
+    {
+        "Date": "2022-04-23 09:00",
+        "PredictedMegaWatt": 24731.805615494
+    },
+    {
+        "Date": "2022-04-23 10:00",
+        "PredictedMegaWatt": 24269.5481631098
+    },
+    {
+        "Date": "2022-04-23 11:00",
+        "PredictedMegaWatt": 23847.1552871898
+    },
+    {
+        "Date": "2022-04-23 12:00",
+        "PredictedMegaWatt": 23732.3775826804
+    },
+    {
+        "Date": "2022-04-23 13:00",
+        "PredictedMegaWatt": 24049.1824339001
+    },
+    {
+        "Date": "2022-04-23 14:00",
+        "PredictedMegaWatt": 23977.2071119254
+    },
+    {
+        "Date": "2022-04-23 15:00",
+        "PredictedMegaWatt": 23210.8462630423
+    },
+    {
+        "Date": "2022-04-23 16:00",
+        "PredictedMegaWatt": 22936.9797180872
+    },
+    {
+        "Date": "2022-04-23 17:00",
+        "PredictedMegaWatt": 22730.6913624457
+    },
+    {
+        "Date": "2022-04-23 18:00",
+        "PredictedMegaWatt": 22977.5245310359
+    },
+    {
+        "Date": "2022-04-23 19:00",
+        "PredictedMegaWatt": 23613.212630872
+    },
+    {
+        "Date": "2022-04-23 20:00",
+        "PredictedMegaWatt": 24326.270371253
+    },
+    {
+        "Date": "2022-04-23 21:00",
+        "PredictedMegaWatt": 24315.8610848859
+    },
+    {
+        "Date": "2022-04-23 22:00",
+        "PredictedMegaWatt": 23996.5360841474
+    },
+    {
+        "Date": "2022-04-23 23:00",
+        "PredictedMegaWatt": 23981.9279901977
+    },
+    {
+        "Date": "2022-04-24 00:00",
+        "PredictedMegaWatt": 24157.4864618571
+    },
+    {
+        "Date": "2022-04-24 01:00",
+        "PredictedMegaWatt": 24081.0874403104
+    },
+    {
+        "Date": "2022-04-24 02:00",
+        "PredictedMegaWatt": 23359.4417915424
+    },
+    {
+        "Date": "2022-04-24 03:00",
+        "PredictedMegaWatt": 22724.8917440263
+    },
+    {
+        "Date": "2022-04-24 04:00",
+        "PredictedMegaWatt": 22534.7554523388
+    },
+    {
+        "Date": "2022-04-24 05:00",
+        "PredictedMegaWatt": 22392.9054478509
+    },
+    {
+        "Date": "2022-04-24 06:00",
+        "PredictedMegaWatt": 22588.150618276
+    },
+    {
+        "Date": "2022-04-24 07:00",
+        "PredictedMegaWatt": 23402.4696839016
+    },
+    {
+        "Date": "2022-04-24 08:00",
+        "PredictedMegaWatt": 24335.9493764897
+    },
+    {
+        "Date": "2022-04-24 09:00",
+        "PredictedMegaWatt": 24349.4472207006
+    },
+    {
+        "Date": "2022-04-24 10:00",
+        "PredictedMegaWatt": 23912.6501364256
+    },
+    {
+        "Date": "2022-04-24 11:00",
+        "PredictedMegaWatt": 23618.5525799503
+    },
+    {
+        "Date": "2022-04-24 12:00",
+        "PredictedMegaWatt": 23616.2672077831
+    },
+    {
+        "Date": "2022-04-24 13:00",
+        "PredictedMegaWatt": 23927.8414667435
+    },
+    {
+        "Date": "2022-04-24 14:00",
+        "PredictedMegaWatt": 23814.7504521547
+    },
+    {
+        "Date": "2022-04-24 15:00",
+        "PredictedMegaWatt": 23084.2691431103
+    },
+    {
+        "Date": "2022-04-24 16:00",
+        "PredictedMegaWatt": 22803.2591883156
+    },
+    {
+        "Date": "2022-04-24 17:00",
+        "PredictedMegaWatt": 22700.086281161
+    },
+    {
+        "Date": "2022-04-24 18:00",
+        "PredictedMegaWatt": 22976.9202882731
+    },
+    {
+        "Date": "2022-04-24 19:00",
+        "PredictedMegaWatt": 23536.011659319
+    },
+    {
+        "Date": "2022-04-24 20:00",
+        "PredictedMegaWatt": 24395.1058550679
+    },
+    {
+        "Date": "2022-04-24 21:00",
+        "PredictedMegaWatt": 24420.2023182822
+    },
+    {
+        "Date": "2022-04-24 22:00",
+        "PredictedMegaWatt": 24099.222137215
+    },
+    {
+        "Date": "2022-04-24 23:00",
+        "PredictedMegaWatt": 24065.8843711249
+    },
+    {
+        "Date": "2022-04-25 00:00",
+        "PredictedMegaWatt": 24330.8071346549
+    },
+    {
+        "Date": "2022-04-25 01:00",
+        "PredictedMegaWatt": 24447.9616509316
+    },
+    {
+        "Date": "2022-04-25 02:00",
+        "PredictedMegaWatt": 23503.6303020191
+    },
+    {
+        "Date": "2022-04-25 03:00",
+        "PredictedMegaWatt": 22704.7842995332
+    },
+    {
+        "Date": "2022-04-25 04:00",
+        "PredictedMegaWatt": 22571.6976686109
+    },
+    {
+        "Date": "2022-04-25 05:00",
+        "PredictedMegaWatt": 22530.6802117834
+    },
+    {
+        "Date": "2022-04-25 06:00",
+        "PredictedMegaWatt": 22740.7942025855
+    },
+    {
+        "Date": "2022-04-25 07:00",
+        "PredictedMegaWatt": 23513.5329635749
+    },
+    {
+        "Date": "2022-04-25 08:00",
+        "PredictedMegaWatt": 24481.3469903271
+    },
+    {
+        "Date": "2022-04-25 09:00",
+        "PredictedMegaWatt": 24622.8627460066
+    },
+    {
+        "Date": "2022-04-25 10:00",
+        "PredictedMegaWatt": 24281.0615208646
+    },
+    {
+        "Date": "2022-04-25 11:00",
+        "PredictedMegaWatt": 24027.6471724083
+    },
+    {
+        "Date": "2022-04-25 12:00",
+        "PredictedMegaWatt": 24106.2932603437
+    },
+    {
+        "Date": "2022-04-25 13:00",
+        "PredictedMegaWatt": 24416.4452628216
+    },
+    {
+        "Date": "2022-04-25 14:00",
+        "PredictedMegaWatt": 23887.5178387735
+    },
+    {
+        "Date": "2022-04-25 15:00",
+        "PredictedMegaWatt": 23108.1033691422
+    },
+    {
+        "Date": "2022-04-25 16:00",
+        "PredictedMegaWatt": 22862.8598903563
+    },
+    {
+        "Date": "2022-04-25 17:00",
+        "PredictedMegaWatt": 22814.9912597084
+    },
+    {
+        "Date": "2022-04-25 18:00",
+        "PredictedMegaWatt": 22952.3996474053
+    },
+    {
+        "Date": "2022-04-25 19:00",
+        "PredictedMegaWatt": 23469.3009105361
+    },
+    {
+        "Date": "2022-04-25 20:00",
+        "PredictedMegaWatt": 24183.0710148287
+    },
+    {
+        "Date": "2022-04-25 21:00",
+        "PredictedMegaWatt": 24197.5382423675
+    },
+    {
+        "Date": "2022-04-25 22:00",
+        "PredictedMegaWatt": 23912.8960348097
+    },
+    {
+        "Date": "2022-04-25 23:00",
+        "PredictedMegaWatt": 23862.7562422027
+    },
+    {
+        "Date": "2022-04-26 00:00",
+        "PredictedMegaWatt": 24196.6009864665
+    },
+    {
+        "Date": "2022-04-26 01:00",
+        "PredictedMegaWatt": 24452.3859683387
+    },
+    {
+        "Date": "2022-04-26 02:00",
+        "PredictedMegaWatt": 23612.2191519737
+    },
+    {
+        "Date": "2022-04-26 03:00",
+        "PredictedMegaWatt": 22651.3675093663
+    },
+    {
+        "Date": "2022-04-26 04:00",
+        "PredictedMegaWatt": 22444.5756180891
+    },
+    {
+        "Date": "2022-04-26 05:00",
+        "PredictedMegaWatt": 22484.7077171671
+    },
+    {
+        "Date": "2022-04-26 06:00",
+        "PredictedMegaWatt": 22777.7889348441
+    },
+    {
+        "Date": "2022-04-26 07:00",
+        "PredictedMegaWatt": 23244.0518124134
+    },
+    {
+        "Date": "2022-04-26 08:00",
+        "PredictedMegaWatt": 24274.0521812494
+    },
+    {
+        "Date": "2022-04-26 09:00",
+        "PredictedMegaWatt": 24536.4263748444
+    },
+    {
+        "Date": "2022-04-26 10:00",
+        "PredictedMegaWatt": 24127.8266683301
+    },
+    {
+        "Date": "2022-04-26 11:00",
+        "PredictedMegaWatt": 23782.9758089581
+    },
+    {
+        "Date": "2022-04-26 12:00",
+        "PredictedMegaWatt": 23895.1518097108
+    },
+    {
+        "Date": "2022-04-26 13:00",
+        "PredictedMegaWatt": 24197.6278284622
+    },
+    {
+        "Date": "2022-04-26 14:00",
+        "PredictedMegaWatt": 23681.0694638318
+    },
+    {
+        "Date": "2022-04-26 15:00",
+        "PredictedMegaWatt": 22779.8549755381
+    },
+    {
+        "Date": "2022-04-26 16:00",
+        "PredictedMegaWatt": 22407.9633257795
+    },
+    {
+        "Date": "2022-04-26 17:00",
+        "PredictedMegaWatt": 22248.9053770906
+    },
+    {
+        "Date": "2022-04-26 18:00",
+        "PredictedMegaWatt": 22414.1317917748
+    },
+    {
+        "Date": "2022-04-26 19:00",
+        "PredictedMegaWatt": 23042.6635072335
+    },
+    {
+        "Date": "2022-04-26 20:00",
+        "PredictedMegaWatt": 23727.7413478217
+    },
+    {
+        "Date": "2022-04-26 21:00",
+        "PredictedMegaWatt": 23832.8456076107
+    },
+    {
+        "Date": "2022-04-26 22:00",
+        "PredictedMegaWatt": 23660.0914896324
+    },
+    {
+        "Date": "2022-04-26 23:00",
+        "PredictedMegaWatt": 23765.9970815924
+    },
+    {
+        "Date": "2022-04-27 00:00",
+        "PredictedMegaWatt": 24080.0772798634
+    },
+    {
+        "Date": "2022-04-27 01:00",
+        "PredictedMegaWatt": 24211.5093482923
+    },
+    {
+        "Date": "2022-04-27 02:00",
+        "PredictedMegaWatt": 23096.2143676249
+    },
+    {
+        "Date": "2022-04-27 03:00",
+        "PredictedMegaWatt": 22447.9137813276
+    },
+    {
+        "Date": "2022-04-27 04:00",
+        "PredictedMegaWatt": 22333.9194917703
+    },
+    {
+        "Date": "2022-04-27 05:00",
+        "PredictedMegaWatt": 22466.2282682567
+    },
+    {
+        "Date": "2022-04-27 06:00",
+        "PredictedMegaWatt": 22780.8336263931
+    },
+    {
+        "Date": "2022-04-27 07:00",
+        "PredictedMegaWatt": 23211.2639195941
+    },
+    {
+        "Date": "2022-04-27 08:00",
+        "PredictedMegaWatt": 24066.9896781828
+    },
+    {
+        "Date": "2022-04-27 09:00",
+        "PredictedMegaWatt": 24377.5803436071
+    },
+    {
+        "Date": "2022-04-27 10:00",
+        "PredictedMegaWatt": 24023.5385687555
+    },
+    {
+        "Date": "2022-04-27 11:00",
+        "PredictedMegaWatt": 23727.992806722
+    },
+    {
+        "Date": "2022-04-27 12:00",
+        "PredictedMegaWatt": 23745.305782896
+    },
+    {
+        "Date": "2022-04-27 13:00",
+        "PredictedMegaWatt": 23922.0585298729
+    },
+    {
+        "Date": "2022-04-27 14:00",
+        "PredictedMegaWatt": 23509.1296525624
+    },
+    {
+        "Date": "2022-04-27 15:00",
+        "PredictedMegaWatt": 22578.1089438146
+    },
+    {
+        "Date": "2022-04-27 16:00",
+        "PredictedMegaWatt": 22282.4754491918
+    },
+    {
+        "Date": "2022-04-27 17:00",
+        "PredictedMegaWatt": 22195.4441027939
+    },
+    {
+        "Date": "2022-04-27 18:00",
+        "PredictedMegaWatt": 22231.6010506084
+    },
+    {
+        "Date": "2022-04-27 19:00",
+        "PredictedMegaWatt": 22882.8270862736
+    },
+    {
+        "Date": "2022-04-27 20:00",
+        "PredictedMegaWatt": 23576.3260197621
+    },
+    {
+        "Date": "2022-04-27 21:00",
+        "PredictedMegaWatt": 23664.563380345
+    },
+    {
+        "Date": "2022-04-27 22:00",
+        "PredictedMegaWatt": 23487.769238414
+    },
+    {
+        "Date": "2022-04-27 23:00",
+        "PredictedMegaWatt": 23614.9851998764
+    },
+    {
+        "Date": "2022-04-28 00:00",
+        "PredictedMegaWatt": 23791.4945198098
+    },
+    {
+        "Date": "2022-04-28 01:00",
+        "PredictedMegaWatt": 23779.6901617061
+    },
+    {
+        "Date": "2022-04-28 02:00",
+        "PredictedMegaWatt": 22820.0803677216
+    },
+    {
+        "Date": "2022-04-28 03:00",
+        "PredictedMegaWatt": 21989.8878817882
+    },
+    {
+        "Date": "2022-04-28 04:00",
+        "PredictedMegaWatt": 21941.3254222828
+    },
+    {
+        "Date": "2022-04-28 05:00",
+        "PredictedMegaWatt": 22076.8908077698
+    },
+    {
+        "Date": "2022-04-28 06:00",
+        "PredictedMegaWatt": 22447.6573797462
+    },
+    {
+        "Date": "2022-04-28 07:00",
+        "PredictedMegaWatt": 23190.7629141195
+    },
+    {
+        "Date": "2022-04-28 08:00",
+        "PredictedMegaWatt": 24162.6262323515
+    },
+    {
+        "Date": "2022-04-28 09:00",
+        "PredictedMegaWatt": 24324.2642605672
+    },
+    {
+        "Date": "2022-04-28 10:00",
+        "PredictedMegaWatt": 23961.3065068716
+    },
+    {
+        "Date": "2022-04-28 11:00",
+        "PredictedMegaWatt": 23751.7325039781
+    },
+    {
+        "Date": "2022-04-28 12:00",
+        "PredictedMegaWatt": 23707.2273678093
+    },
+    {
+        "Date": "2022-04-28 13:00",
+        "PredictedMegaWatt": 23765.2834820106
+    },
+    {
+        "Date": "2022-04-28 14:00",
+        "PredictedMegaWatt": 23347.5620575521
+    },
+    {
+        "Date": "2022-04-28 15:00",
+        "PredictedMegaWatt": 22553.5407296414
+    },
+    {
+        "Date": "2022-04-28 16:00",
+        "PredictedMegaWatt": 22435.1110016445
+    },
+    {
+        "Date": "2022-04-28 17:00",
+        "PredictedMegaWatt": 22474.2786600756
+    },
+    {
+        "Date": "2022-04-28 18:00",
+        "PredictedMegaWatt": 22587.6829170782
+    },
+    {
+        "Date": "2022-04-28 19:00",
+        "PredictedMegaWatt": 23054.2899288181
+    },
+    {
+        "Date": "2022-04-28 20:00",
+        "PredictedMegaWatt": 23803.3513939001
+    },
+    {
+        "Date": "2022-04-28 21:00",
+        "PredictedMegaWatt": 23807.7732399666
+    },
+    {
+        "Date": "2022-04-28 22:00",
+        "PredictedMegaWatt": 23456.4684747665
+    },
+    {
+        "Date": "2022-04-28 23:00",
+        "PredictedMegaWatt": 23430.1073030293
+    },
+    {
+        "Date": "2022-04-29 00:00",
+        "PredictedMegaWatt": 23806.017970346
+    },
+    {
+        "Date": "2022-04-29 01:00",
+        "PredictedMegaWatt": 23788.1316431659
+    },
+    {
+        "Date": "2022-04-29 02:00",
+        "PredictedMegaWatt": 23324.710189386
+    },
+    {
+        "Date": "2022-04-29 03:00",
+        "PredictedMegaWatt": 22477.9448937711
+    },
+    {
+        "Date": "2022-04-29 04:00",
+        "PredictedMegaWatt": 22295.6075350022
+    },
+    {
+        "Date": "2022-04-29 05:00",
+        "PredictedMegaWatt": 22289.1610431957
+    },
+    {
+        "Date": "2022-04-29 06:00",
+        "PredictedMegaWatt": 22440.9359513044
+    },
+    {
+        "Date": "2022-04-29 07:00",
+        "PredictedMegaWatt": 23450.7207544986
+    },
+    {
+        "Date": "2022-04-29 08:00",
+        "PredictedMegaWatt": 24208.0086944131
+    },
+    {
+        "Date": "2022-04-29 09:00",
+        "PredictedMegaWatt": 24342.1963075474
+    },
+    {
+        "Date": "2022-04-29 10:00",
+        "PredictedMegaWatt": 23862.9885482138
+    },
+    {
+        "Date": "2022-04-29 11:00",
+        "PredictedMegaWatt": 23453.1154834847
+    },
+    {
+        "Date": "2022-04-29 12:00",
+        "PredictedMegaWatt": 23373.6538531701
+    },
+    {
+        "Date": "2022-04-29 13:00",
+        "PredictedMegaWatt": 23379.6029876923
+    },
+    {
+        "Date": "2022-04-29 14:00",
+        "PredictedMegaWatt": 23152.2631354702
+    },
+    {
+        "Date": "2022-04-29 15:00",
+        "PredictedMegaWatt": 22408.7819573344
+    },
+    {
+        "Date": "2022-04-29 16:00",
+        "PredictedMegaWatt": 22289.4983811799
+    },
+    {
+        "Date": "2022-04-29 17:00",
+        "PredictedMegaWatt": 22376.9992822809
+    },
+    {
+        "Date": "2022-04-29 18:00",
+        "PredictedMegaWatt": 22574.0547096538
+    },
+    {
+        "Date": "2022-04-29 19:00",
+        "PredictedMegaWatt": 23249.8032396921
+    },
+    {
+        "Date": "2022-04-29 20:00",
+        "PredictedMegaWatt": 23920.8951463123
+    },
+    {
+        "Date": "2022-04-29 21:00",
+        "PredictedMegaWatt": 23930.9578271683
+    },
+    {
+        "Date": "2022-04-29 22:00",
+        "PredictedMegaWatt": 23614.191281727
+    },
+    {
+        "Date": "2022-04-29 23:00",
+        "PredictedMegaWatt": 23564.3875914339
+    },
+    {
+        "Date": "2022-04-30 00:00",
+        "PredictedMegaWatt": 23961.858851483
+    },
+    {
+        "Date": "2022-04-30 01:00",
+        "PredictedMegaWatt": 24049.3517207273
+    },
+    {
+        "Date": "2022-04-30 02:00",
+        "PredictedMegaWatt": 23698.1538410056
+    },
+    {
+        "Date": "2022-04-30 03:00",
+        "PredictedMegaWatt": 22851.3539466231
+    },
+    {
+        "Date": "2022-04-30 04:00",
+        "PredictedMegaWatt": 22640.9903504262
+    },
+    {
+        "Date": "2022-04-30 05:00",
+        "PredictedMegaWatt": 22709.0232663997
+    },
+    {
+        "Date": "2022-04-30 06:00",
+        "PredictedMegaWatt": 22904.0905003056
+    },
+    {
+        "Date": "2022-04-30 07:00",
+        "PredictedMegaWatt": 23908.8121445623
+    },
+    {
+        "Date": "2022-04-30 08:00",
+        "PredictedMegaWatt": 24534.9095895861
+    },
+    {
+        "Date": "2022-04-30 09:00",
+        "PredictedMegaWatt": 24641.6616156821
+    },
+    {
+        "Date": "2022-04-30 10:00",
+        "PredictedMegaWatt": 24089.8823234679
+    },
+    {
+        "Date": "2022-04-30 11:00",
+        "PredictedMegaWatt": 23613.7161665076
+    },
+    {
+        "Date": "2022-04-30 12:00",
+        "PredictedMegaWatt": 23533.5780067193
+    },
+    {
+        "Date": "2022-04-30 13:00",
+        "PredictedMegaWatt": 23628.1055468193
+    },
+    {
+        "Date": "2022-04-30 14:00",
+        "PredictedMegaWatt": 23391.6322377854
+    },
+    {
+        "Date": "2022-04-30 15:00",
+        "PredictedMegaWatt": 22652.4122685808
+    },
+    {
+        "Date": "2022-04-30 16:00",
+        "PredictedMegaWatt": 22399.5082519467
+    },
+    {
+        "Date": "2022-04-30 17:00",
+        "PredictedMegaWatt": 22285.4997521813
+    },
+    {
+        "Date": "2022-04-30 18:00",
+        "PredictedMegaWatt": 22453.1301633787
+    },
+    {
+        "Date": "2022-04-30 19:00",
+        "PredictedMegaWatt": 23320.3723688979
+    },
+    {
+        "Date": "2022-04-30 20:00",
+        "PredictedMegaWatt": 24050.4959513987
+    },
+    {
+        "Date": "2022-04-30 21:00",
+        "PredictedMegaWatt": 24073.4411126703
+    },
+    {
+        "Date": "2022-04-30 22:00",
+        "PredictedMegaWatt": 23762.1665037507
+    },
+    {
+        "Date": "2022-04-30 23:00",
+        "PredictedMegaWatt": 23636.7570922253
+    }
+]
