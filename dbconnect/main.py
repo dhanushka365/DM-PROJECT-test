@@ -25,4 +25,4 @@ for  date ,time,power in myallData:
 
 dic = {'Datetime' : all_datetime , 'AEP_MW':all_power}
 df = pd.DataFrame (dic)
-df_csv = df.to_csv('./PZEM_AEP_hourly.csv')
+df_csv = df.to_csv('./energyMeterData/PZEM_AEP_hourly.csv')
